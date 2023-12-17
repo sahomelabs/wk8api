@@ -1,8 +1,12 @@
-#packages need for app to run 
+# packages need for app to run 
 npm install react-accessible-accrodion 
 npm install react-select-async-paginate 
 
+# Apiused for weather and location 
+https://openweathermap.org/api
 
+# GeoDB Cities 
+https://rapidapi.com/wirefreethought/api/geodb-cities
 
 # Getting Started with Create React App
 
