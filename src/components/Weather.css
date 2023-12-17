@@ -14,7 +14,7 @@
     margin-bottom: 20px;
   }
   
-  /* Style the Search component */
+  /* Search component */
   .search-input {
     width: 100%;
     padding: 10px;
@@ -30,7 +30,7 @@
     cursor: pointer;
   }
   
-  /* Style the CurrentWeather component */
+  /* CurrentWeather component */
   .current-weather {
     text-align: center;
   }
@@ -45,7 +45,7 @@
     margin-top: 10px;
   }
   
-  /* Style the Forecast component */
+  /* Forecast component */
   .forecast {
     margin-top: 20px;
   }
@@ -56,13 +56,12 @@
     margin-bottom: 10px;
   }
   
-  /* Style the Accordion in Forecast component */
+  /* Accordion in Forecast component */
   .react-accessible-accordion {
     width: 100%;
   }
   
-  /* Customize other styles as needed */
-  
+/* H1 */
 .welcome{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
