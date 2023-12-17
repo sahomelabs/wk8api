@@ -1,3 +1,9 @@
+#packages need for app to run 
+npm install react-accessible-accrodion 
+npm install react-select-async-paginate 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
