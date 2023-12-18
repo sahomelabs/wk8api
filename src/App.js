@@ -1,5 +1,6 @@
 import React from "react";
 import Weather from "./components/Weather";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <p>Select a city or search to get the weather information: </p>
         </div>
         <Weather />
+        <Footer />
         
       </div>
   );
